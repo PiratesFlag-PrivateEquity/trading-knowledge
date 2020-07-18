@@ -1,0 +1,2 @@
+# trading-knowledge
+know trade
